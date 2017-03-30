@@ -52,7 +52,7 @@ By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)
 Ce talk aborde une fonctionnalité méconnue de Varnish: les tags. Nous verrons comment en tirer partie via les "event listeners" d'une application Symfony standard. Au menu, un cluster de Rasberry Pi, une API, et des données toujours fraîches sous la milliseconde.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/JrmyDeruss/grce-aux-tags-varnish-jai-switch-ma-prod-sur-raspberry-pi)  
 ~~Video~~
 
 By [Jérémy Derussé](https://connect.sensiolabs.com/profile/jderusse)  
