@@ -103,8 +103,9 @@ By [Etienne Broutin](https://connect.sensiolabs.com/profile/etienneb)
 Au cours de cette présentation, je vous présenterai l'outil Webpack, qui permet de packager nos assets via une configuration. Étape par étape, nous verrons comment migrer une application Symfony utilisant Assetic vers une application Symfony avec Webpack, du dev à la production.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](http://slides.com/alainhippolyte/sf-live-2017-symfony-webpack)  
+~~Video~~  
+[Code](https://github.com/alOneh/sf-live-2017-symfony-webpack)
 
 By [Alain Hippolyte](https://connect.sensiolabs.com/profile/aloneh)  
 ![github](icon/github.png) [@alOneh](https://github.com/alOneh)  
