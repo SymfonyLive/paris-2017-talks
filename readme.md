@@ -70,7 +70,7 @@ By [Jérémy Derussé](https://connect.sensiolabs.com/profile/jderusse)
 Cette présentation sera l'occasion de présenter JWT, d'expliquer son fonctionnement et son implémentation au sein d'un projet Symfony 3.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://blog.webnet.fr/wp-content/uploads/2017/03/2017-03-30-Pr%C3%A9sentation-SymfonyLive-JWT.pdf)  
 ~~Video~~
 
 By [André Tapia](https://connect.sensiolabs.com/profile/dedeparisg)  
