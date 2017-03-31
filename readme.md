@@ -10,7 +10,6 @@
   <dd>Symfony 4 sortira en décembre 2017. Aucune surprise d'un point de vue fonctionnel puisque toutes les nouvelles fonctionnalités seront disponibles dans les versions 3 successives (dont la 3.4 qui sortira en même temps). Quoi de neuf du coup ? Grâce à Symfony Flex, la façon de développer des applications va changer.</dd>
 </dl>
 
-~~Slides~~  
 ~~Video~~
 
 By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
@@ -152,7 +151,6 @@ By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)
   <dd>Keynote by CommitStrip. Venez assister à la grande première à Paris de cette émission basée sur un format complètement inédit ! Le but : trouver le meilleur job ! Comment ? Le candidat devra répondre à des questions toutes plus techniques les unes que les autres. La technicité et la logique du candidat seront mises à rude épreuve !</dd>
 </dl>
 
-~~Slides~~  
 ~~Video~~
 
 By [Thomas Guenoux](https://connect.sensiolabs.com/profile/thomasgx)  
