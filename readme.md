@@ -136,7 +136,7 @@ By [Samuel Roze](https://connect.sensiolabs.com/profile/sroze)
   <dd>Il y a un peu plus d'un an, en novembre 2015 la version 3.0 est sortie. Beaucoup de choses se sont passées depuis ! 71 blog posts pour vous tenir au courant de toutes les nouveautés, plus de 1300 pull requests, 2 nouvelles versions… Je suis sûre que vous avez dû manquer un petit quelque chose ! Nous allons revoir ensemble ce qui est arrivé ; passer en revue les fonctionnalités que vous auriez râtées ou les redécouvrir.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/saro0h/symfonylive-paris-quoi-de-neuf-depuis-1-an)  
 ~~Video~~
 
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
