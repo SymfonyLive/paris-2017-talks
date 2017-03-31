@@ -205,7 +205,7 @@ By [Tristan Darricau](https://connect.sensiolabs.com/profile/nicofuma)
 Redirect attacks, URL obfuscation, Man-in-the-Middle, Password reuse, premium phone numbers, captcha cracking, insecure direct object reference... sont sûrement des buzzwords que vous avez entendus, mais savez-vous les exploiter ?</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://github.com/ninsuo/slides/blob/4cb608e808360e1b0f5bbc253eaf5673003a9e1e/Let's%20continue%20to%20hack!.pdf)  
 ~~Video~~
 
 By [Alain Tiemblo](https://connect.sensiolabs.com/profile/ninsuo)  
