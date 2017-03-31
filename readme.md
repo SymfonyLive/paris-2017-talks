@@ -34,7 +34,7 @@ Nous verrons ensuite les différents formats supportés nativement : JSON, XML, 
 Finalement, nous aborderons quelques cas plus complexes tels que choisir les propriétés à sérialiser / désérialiser grâce aux groupes, gérer les références circulaires, sérialiser des arbres en limitant leur profondeur et mettre à jour des objets déjà existants.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/lyrixx/symfony-live-2017-serializer)  
 ~~Video~~
 
 By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
@@ -103,7 +103,7 @@ By [Etienne Broutin](https://connect.sensiolabs.com/profile/etienneb)
 Au cours de cette présentation, je vous présenterai l'outil Webpack, qui permet de packager nos assets via une configuration. Étape par étape, nous verrons comment migrer une application Symfony utilisant Assetic vers une application Symfony avec Webpack, du dev à la production.</dd>
 </dl>
 
-[Slides](http://slides.com/alainhippolyte/sf-live-2017-symfony-webpack)  
+[Slides](https://slideshare.net/alainhippolyte1/utiliser-webpack-dans-une-application-symfony)  
 ~~Video~~  
 [Code](https://github.com/alOneh/sf-live-2017-symfony-webpack)
 
@@ -120,7 +120,7 @@ By [Alain Hippolyte](https://connect.sensiolabs.com/profile/aloneh)
   <dd>Command Query Responsibility Segregation et Event Sourcing sont des principes en vogue mais souvent très peu compris. Après avoir présenté cette architecture qui consiste à ne s'occuper que des événements générés par les actions utilisateur (ou non) en lieu et place de l'état final, je vous donnerai les clefs pour démarrer une application Symfony utilisant ces principes, et vous apporterai des conseils et observations après plus d'un an de production avec ce type d'architecture.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/samuelroze/introduction-to-cqrs-and-event-sourcing-74061563)  
 ~~Video~~
 
 By [Samuel Roze](https://connect.sensiolabs.com/profile/sroze)  
