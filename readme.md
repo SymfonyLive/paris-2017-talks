@@ -281,7 +281,7 @@ By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)
 
 # Lightning Talks
 
-## Go, beyond, composer update, Contribute !
+## Go beyond "composer update", contribue!
 
 [Slides](https://speakerdeck.com/nicolasgrekas/go-beyond-composer-update-contribue)
 
