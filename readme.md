@@ -282,3 +282,11 @@ By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)
 ---
 
 # Lightning Talks
+
+## Go, beyond, composer update, Contribute !
+
+~~Slides~~
+
+By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
+![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
+![twitter](icon/twitter.png) [@nicolasgrekas](https://twitter.com/nicolasgrekas)
