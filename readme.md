@@ -283,7 +283,7 @@ By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)
 
 ## Go, beyond, composer update, Contribute !
 
-~~Slides~~
+[Slides](https://speakerdeck.com/nicolasgrekas/go-beyond-composer-update-contribue)
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
