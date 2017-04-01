@@ -187,7 +187,7 @@ Mais, au moment de l'utiliser pour l'une de nos applications, de nombreuses prob
 Voici comment nous les avons résolues une à une, ce qui a réussi, ce qui a échoué et ce qu'il reste à faire.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/nicofuma/symfony-live-paris-2017)  
 ~~Video~~
 
 By [Tristan Darricau](https://connect.sensiolabs.com/profile/nicofuma)  
