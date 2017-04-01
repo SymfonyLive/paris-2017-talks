@@ -288,3 +288,13 @@ By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
 ![twitter](icon/twitter.png) [@nicolasgrekas](https://twitter.com/nicolasgrekas)
+
+---
+
+## Lock Component
+
+[Slides](https://speakerdeck.com/fbourigault/lock-component-lightning-talk-symfony-live-paris-2017)
+
+By [Fabien Bourigault](https://connect.sensiolabs.com/profile/fbourigault)  
+![github](icon/github.png) [@fbourigault](https://github.com/fbourigault)  
+![twitter](icon/twitter.png) [@fbourigault](https://twitter.com/fbourigault)
