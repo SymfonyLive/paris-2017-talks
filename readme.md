@@ -167,7 +167,7 @@ By [Thomas Guenoux](https://connect.sensiolabs.com/profile/thomasgx)
 Dans cette présentation nous mettrons en valeur les vertus d'une architecture logicielle réfléchie et pragmatique, exemples réels à l'appui. Nous verrons les outils que Symfony met à notre disposition pour y arriver, les design patterns mis en œuvre et les pièges à éviter. Les "buzzwords" SOLID, KISS, DRY et autres DDD prendront alors tout leur sens !</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/lolautruche/architecture-inutile)  
 ~~Video~~
 
 By [Jérôme Vieilledent](https://connect.sensiolabs.com/profile/lolautruche)  
