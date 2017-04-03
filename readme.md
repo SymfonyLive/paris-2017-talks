@@ -266,7 +266,7 @@ Nous parlerons de OPCache, du nouveau compilateur de PHP, du nouveau design des 
 Nous utiliserons à la fois PHP 7.0 et PHP 7.1, et nous lâcherons quelques mots sur le futur de PHP en terme de performances pour savoir à quoi s'attendre dans les années à venir.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/jpauli/symfony-live-2017php7performances)  
 ~~Video~~
 
 By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)  
