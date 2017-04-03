@@ -228,7 +228,7 @@ Nous découvrirons ensuite les tout nouveaux outils frontend du projet API Platf
 - Un générateur de code permettant de créer des interfaces ReactJS en CRUD, à la manière des outils de génération de code fournis par Symfony (mais côté client).</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/coopTilleuls/api-platform-21-when-symfony-meets-reactjs-symfony-live-2017)  
 ~~Video~~
 
 By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
