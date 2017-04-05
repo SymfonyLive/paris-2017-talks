@@ -298,3 +298,13 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
 By [Fabien Bourigault](https://connect.sensiolabs.com/profile/fbourigault)  
 ![github](icon/github.png) [@fbourigault](https://github.com/fbourigault)  
 ![twitter](icon/twitter.png) [@fbourigault](https://twitter.com/fbourigault)
+
+---
+
+## Pecha Kucha sur la prise de parole en public
+
+[Slides](https://speakerdeck.com/tgalopin/pecha-kucha-why-you-should-speak-in-public)
+
+By [Titouan Galopin](https://connect.sensiolabs.com/profile/tgalopin)  
+![github](icon/github.png) [@tgalopin](https://github.com/tgalopin)  
+![twitter](icon/twitter.png) [@titouangalopin](https://twitter.com/titouangalopin)
