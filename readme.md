@@ -86,10 +86,11 @@ By [André Tapia](https://connect.sensiolabs.com/profile/dedeparisg)
 Nous profiterons de ce vrai retour d’expérience pour aller plus loin que les succès et échecs, en rentrant dans le détail sur de nombreux aspects : de la stratégie de base de données à l’industrialisation d’une architecture µServices en passant par l’implémentation dans Symfony, le monitoring, la performance ou les impacts sur les équipes. Vous saurez tout ce que nous avons appris après 2 ans de refonte et notre dernier talk au SF Live en 2015 !</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://fr.slideshare.net/meeticTech/php-symfony-microservices-migration-meetictech)  
 ~~Video~~
 
-By [Etienne Broutin](https://connect.sensiolabs.com/profile/etienneb)
+By [Etienne Broutin](https://connect.sensiolabs.com/profile/etienneb)  
+![twitter](icon/twitter.png) [@lezca__](https://twitter.com/lezca__)
 
 ---
 
