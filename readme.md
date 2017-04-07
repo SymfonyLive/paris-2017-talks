@@ -86,7 +86,7 @@ By [André Tapia](https://connect.sensiolabs.com/profile/dedeparisg)
 Nous profiterons de ce vrai retour d’expérience pour aller plus loin que les succès et échecs, en rentrant dans le détail sur de nombreux aspects : de la stratégie de base de données à l’industrialisation d’une architecture µServices en passant par l’implémentation dans Symfony, le monitoring, la performance ou les impacts sur les équipes. Vous saurez tout ce que nous avons appris après 2 ans de refonte et notre dernier talk au SF Live en 2015 !</dd>
 </dl>
 
-[Slides](https://fr.slideshare.net/meeticTech/php-symfony-microservices-migration-meetictech)  
+[Slides](https://slideshare.net/meeticTech/php-symfony-microservices-migration-meetictech)  
 ~~Video~~
 
 By [Etienne Broutin](https://connect.sensiolabs.com/profile/etienneb)  
@@ -306,6 +306,16 @@ By [Fabien Bourigault](https://connect.sensiolabs.com/profile/fbourigault)
 
 [Slides](http://demo.orbitale.io/easy_impress/rpg)
 
-By [Alex "Pierstoval" Rock Ancelet](https://connect.sensiolabs.com/profile/pierstoval)<br>
-![github](icon/github.png) [@pierstoval](https://github.com/pierstoval)<br>
+By [Alex "Pierstoval" Rock Ancelet](https://connect.sensiolabs.com/profile/pierstoval)  
+![github](icon/github.png) [@pierstoval](https://github.com/pierstoval)  
 ![twitter](icon/twitter.png) [@pierstoval](https://twitter.com/pierstoval)
+
+---
+
+## Pecha Kucha sur la prise de parole en public
+
+[Slides](https://speakerdeck.com/tgalopin/pecha-kucha-why-you-should-speak-in-public)
+
+By [Titouan Galopin](https://connect.sensiolabs.com/profile/tgalopin)  
+![github](icon/github.png) [@tgalopin](https://github.com/tgalopin)  
+![twitter](icon/twitter.png) [@titouangalopin](https://twitter.com/titouangalopin)
