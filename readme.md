@@ -299,3 +299,13 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
 By [Fabien Bourigault](https://connect.sensiolabs.com/profile/fbourigault)  
 ![github](icon/github.png) [@fbourigault](https://github.com/fbourigault)  
 ![twitter](icon/twitter.png) [@fbourigault](https://twitter.com/fbourigault)
+
+---
+
+## Comment j'ai ~digitalisé~ numérisé le jeu de rôle
+
+[Slides](http://demo.orbitale.io/easy_impress/rpg)
+
+By [Alex "Pierstoval" Rock Ancelet](https://connect.sensiolabs.com/profile/pierstoval)<br>
+![github](icon/github.png) [@pierstoval](https://github.com/pierstoval)<br>
+![twitter](icon/twitter.png) [@pierstoval](https://twitter.com/pierstoval)
